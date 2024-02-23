@@ -21,7 +21,6 @@ public class Example3 {
     }
 
     @Test
-
     public void test1(){
         //
         WebElement c1= driver.findElement(By.xpath("(//input[@type='checkbox'])[1]"));
